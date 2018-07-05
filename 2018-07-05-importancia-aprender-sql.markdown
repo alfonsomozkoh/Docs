@@ -11,15 +11,15 @@ SQL son las siglas de **Structured Query Language** o **lenguaje de consulta est
 ## ¿Para qué se utiliza SQL?
 SQL se utiliza para las siguientes acciones con las diferentes **sentencias estandar** o **clauses** en inglés:
 
-> SQL puede ejecutar **sentencias** o **queries** en una base de datos.
-> SQL puede recuperar datos de una base de datos.
-> SQL puede insertar registros en una base de datos.
-> SQL puede actualizar los registros de una base de datos.
-> SQL puede eliminar los registros de una base de datos.
-> SQL puede crear nuevas bases de datos.
-> SQL puede crear nuevas tablas en una base de datos
-> SQL puede crear **procedimientos almacenados** o **stored procedures** en una base de datos.
-> SQL puede crear **vistas** o **views** en una base de datos.
-> SQL puede establecer permisos en tablas, procedimientos y vistas.
++ SQL puede ejecutar **sentencias** o **queries** en una base de datos.
++ SQL puede recuperar datos de una base de datos.
++ SQL puede insertar registros en una base de datos.
++ SQL puede actualizar los registros de una base de datos.
++ SQL puede eliminar los registros de una base de datos.
++ SQL puede crear nuevas bases de datos.
++ SQL puede crear nuevas tablas en una base de datos
++ SQL puede crear **procedimientos almacenados** o **stored procedures** en una base de datos.
++ SQL puede crear **vistas** o **views** en una base de datos.
++ SQL puede establecer permisos en tablas, procedimientos y vistas.
 
 https://www.1keydata.com/es/sql/sql-distinct.php
